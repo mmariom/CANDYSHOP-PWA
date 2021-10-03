@@ -1,6 +1,6 @@
 const products = [
   {
-    _id: '1',
+ 
     name: 'Ferrero',
     image: '/images/ferrero.jpg',
     description:
@@ -13,7 +13,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
+
     name: 'Kinder Bars',
     image: '/images/kinder.jpg',
     description:
@@ -26,7 +26,7 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
+ 
     name: 'Snickers',
     image: '/images/snicker.jpg',
     description:
@@ -39,7 +39,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
+
     name: 'Horalka',
     image: '/images/horalka.jpg',
     description:
@@ -52,7 +52,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
+
     name: 'Sony Playstation 4 ',
     image: '/images/playstation.jpg',
     description:
