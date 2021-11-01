@@ -34,7 +34,7 @@ export const addToCart = (id, qty) => async (dispatch, getState) => {
 }
 
 
-/*
+
 
 export const saveShippingAddress = (data) => (dispatch) => {
   dispatch({
@@ -52,4 +52,4 @@ export const savePaymentMethod = (data) => (dispatch) => {
   })
 
   localStorage.setItem('paymentMethod', JSON.stringify(data))
-} */
+}

@@ -60,7 +60,7 @@ const CartScreen = ({match,location,history}) => {
                                     </Col>
                                            
                                     <Col md={2}>
-                                    {item.price}
+                                    ${item.price}
                                     </Col>
 
 
